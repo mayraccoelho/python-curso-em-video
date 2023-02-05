@@ -27,16 +27,14 @@ while True:
         continuar = str(input('DESEJA CONTINUAR? [S/N]')).upper().strip()[0]
 
     total += preco
-    if cont == 0:
+    if cont == 0 or preco <= menor:
         menor = preco
-    if preco <= menor:
         nomeMenor = nome
-        menor = preco
     if preco > 1000:
         produtos1000 += 1
 
     if continuar in 'Nn':
-        print('====== PROGRAMA ENCERRADO ======')
+        print('{:-^40}' .format('====== PROGRAMA ENCERRADO ======'))
         break
 
     cont += 1
