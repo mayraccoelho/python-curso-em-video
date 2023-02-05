@@ -49,7 +49,7 @@
 - desafio_034 - Aumentos múltiplos
 - desafio_035 - Analisando triângulo v1.0
 
-## Mundo 2: estruturas de controle
+## Mundo 2: Estruturas de controle
 
 ### Condições aninhadas
 - desafio_036 - Aprovando empréstimo
@@ -92,3 +92,64 @@
 - desafio_069 - Análise de dados do grupo
 - desafio_070 - Estatística de produtos
 - desafio_071 - Simulador de caixa eletrônico
+
+## Mundo 3: Estruturas compostas
+
+### Tuplas
+- desafio_072 - Número por extenso
+- desafio_073 - Tuplas com times de futebol
+- desafio_074 - Maior e menor valores em Tupla
+- desafio_075 - Análise de dados em uma Tupla
+- desafio_076 - Lista de Preços com Tupla
+- desafio_077 - Contando vogais em Tupla
+
+### Listas
+- desafio_078 - Maior e Menor valores na Lista
+- desafio_079 - Valores únicos em uma Lista
+- desafio_080 - Lista ordenada sem repetições
+- desafio_081 - Extraindo dados de uma Lista
+- desafio_082 - Dividindo valores em várias listas
+- desafio_083 - Validando expressões matemáticas
+
+### Listas (Parte 2)
+- desafio_084 - Lista composta e análise de dados
+- desafio_085 - Listas com pares e ímpares
+- desafio_086 - Matriz em Python
+- desafio_087 - Mais sobre Matriz em Python
+- desafio_088 - Palpites para a Mega Sena
+- desafio_089 - Boletim com listas compostas
+
+### Dicionários
+- desafio_090 - Dicionário em Python
+- desafio_091 - Jogo de Dados em Python
+- desafio_092 - Cadastro de Trabalhador em Python
+- desafio_093 - Cadastro de Jogador de Futebol
+- desafio_094 - Unindo dicionários e listas
+- desafio_095 - Aprimorando os Dicionários
+
+### Funções
+- desafio_096 - Função que calcula área
+- desafio_097 - Um print especial
+- desafio_098 - Função de Contador
+- desafio_099 - Função que descobre o maior
+- desafio_100 - Funções para sortear e somar
+
+### Funções (Parte 2)
+- desafio_101 - Funções para votação
+- desafio_102 - Função para Fatorial
+- desafio_103 - Ficha do Jogador
+- desafio_104 - Validando entrada de dados em Python
+- desafio_105 - Analisando e gerando Dicionários
+- desafio_106 - Sistema interativo de ajuda em Python
+
+### Módulos e pacotes
+- desafio_107 - Exercitando módulos em Python
+- desafio_108 - Formatando Moedas em Python
+- desafio_109 - Formatando moedas em Python
+- desafio_110 - Reduzindo ainda mais seu programa
+- desafio_111 - Transformando módulos em pacotes
+- desafio_112 - Entrada de dados monetários
+
+### Tratamento de erros e exceções
+- desafio_113 - Funções aprofundadas em Python
+- desafio_114 - Site está acessível?
