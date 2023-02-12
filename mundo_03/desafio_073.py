@@ -9,7 +9,9 @@ a) Apenas os 5 primeiros colocados.
 b) Os últimos 4 colocados da tabela.
 c) Uma lista com os times em ordem alfabético.
 d) Em que posição da tabela está o time CHAPECOENCE.
-OBS. novo d)Em que posição da tabela está o melhor time.'''
+
+OBS. Exercício feito com tabela do Paulistão 11/02/2023.
+     Novo: d)Em que posição da tabela está o melhor time.'''
 
 times_paulista = 'Palmeiras', 'São Paulo', 'CORINTHIANS', 'Bragantino', 'Ituano', 'Botafogo-SP', 'Mirassol', 'São Bernardo',\
                  'Guarani', 'Santo André', 'Ferroviária', 'Inter de Limeira', 'Água Santa', 'Santos', 'Ponte Preta', 'Novorizontino'
