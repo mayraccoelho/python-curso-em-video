@@ -8,13 +8,11 @@ contagem por extensão, de zero até vinte.
 Seu programa deverá ler um número pelo teclado (entre 0 e 20) e mostrá-lo por extenso.'''
 
 contagem = 'zero', 'um', 'dois', 'tres', 'quatro', 'cinco', 'seis', 'sete', 'oito', 'nove', 'dez', 'onze', 'doze', \
-           'treze', 'quatorze', 'quinze', 'dezesseis', 'dezessete', 'dezoito', 'dezenove', 'vinte '
+           'treze', 'quatorze', 'quinze', 'dezesseis', 'dezessete', 'dezoito', 'dezenove', 'vinte'
 
-
-numero = int(input('Diga um número de 0 a 20: '))
-for n in contagem:
-    while numero < 0 or numero > 20:
-        numero = int(input('Ops, algo deu errado.\nPor favor, digite um número entre 0 a 20: '))
-    if numero == contagem.index(n):
-        print(f'Você digitou o número {numero} ({n})')
-
+while True:
+    numero = int(input('Diga um número de 0 a 20: '))
+    if 0 <= numero <= 20:
+        break
+    print('Ops. Algo deu errao!')
+print(f'Você digitou o número {numero} ({contagem[numero]})')
